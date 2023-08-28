@@ -6,7 +6,7 @@
 I'm Quaide Tranter, full-stack developer, blogger, freelancer, technologies enthusiast. I&apos;m in love with Web, mobile and ML ❤️ Constantly learning and discovering new stuff 📖
 
 [![LinkedIn Badge](https://img.shields.io/badge/-zagrodzki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/quaide)
-[![Mail Badge](https://img.shields.io/badge/-bartosz@zagrodzki.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tranterquaide@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-tranterquaide@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tranterquaide@gmail.com)
 
 ## Technologies 🧰
 
